@@ -17,5 +17,5 @@
 ### 🌱 Outside Work
 - I enjoy traveling, learning tools that blend creativity + logic, and improving my workflows one step at a time.
 
-📫 Reach me on [LinkedIn](📫 Reach me on [LinkedIn]((https://www.linkedin.com/in/anil-lingala11/))
+📫 Reach me on [LinkedIn]((https://www.linkedin.com/in/anil-lingala11/))
 
