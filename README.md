@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Anil
 
-<!--
-**anil-lingala/anil-lingala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Associate Technical Services Engineer @ HealthEdge  
+🎓 CS graduate | 3+ years of experience in backend engineering & data optimization  
+🛠️ Passionate about building efficient systems, solving real-world problems, and clean code
 
-Here are some ideas to get you started:
+### 🔍 What I Work On
+- Optimizing SQL queries and improving system performance  
+- Debugging production issues and supporting healthcare technology  
+- Exploring backend engineering patterns and process automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Skills & Interests
+- SQL • Python • Java • Bash  
+- Backend development • System integration • Data-driven debugging  
+- Curious about design tools, especially Adobe Illustrator
+
+### 🌱 Outside Work
+- I enjoy traveling, learning tools that blend creativity + logic, and improving my workflows one step at a time.
+
+📫 Reach me on [LinkedIn](📫 Reach me on [LinkedIn]((https://www.linkedin.com/in/anil-lingala11/))
+
